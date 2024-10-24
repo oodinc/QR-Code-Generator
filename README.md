@@ -47,4 +47,4 @@ Ikuti langkah-langkah berikut untuk menginstal proyek ini:
 
 2. Masukkan informasi yang ingin Anda konversi menjadi kode QR (misalnya, URL, teks, atau informasi kontak).
 
-3. Kode QR akan dihasilkan dan ditampilkan di layar. Anda juga dapat menyimpannya dengan mengklik tombol download.
+3. Kode QR akan dihasilkan dan ditampilkan di layar.
